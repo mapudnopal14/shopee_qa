@@ -4,6 +4,6 @@ How to run this automation
 - open test suites
 - run the test suite (chrome browser)
 
-note : let me know throug whatsapp (my nomber attached on email) if github request for the security code because log in into the new devices
+note : let me know throug whatsapp (my phone number attached on email) if github request for the security code because log in into the new devices
 
 Thanks :D
